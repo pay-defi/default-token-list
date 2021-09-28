@@ -221,9 +221,9 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.1.tgz#91c938668282d463e4fce6e0cf4d320ce5f3768f"
   integrity sha512-6YFT4EKgm0XgfwCBsKx5HrDtRI6EvhZHipjBKegdTV0b2zKuXnmdyZ+RwPCr0mCKq2pKB0qIiqCxfbgXYDlLCQ==
 
-"@sushiswap/sdk@^5.0.0-canary.22":
+"@paydefi/sdk@^5.0.0-canary.22":
   version "5.0.0-canary.22"
-  resolved "https://registry.yarnpkg.com/@sushiswap/sdk/-/sdk-5.0.0-canary.22.tgz#6d6ba76d816d606164992086117a814a7d7d8aad"
+  resolved "https://registry.yarnpkg.com/@paydefi/sdk/-/sdk-5.0.0-canary.22.tgz#6d6ba76d816d606164992086117a814a7d7d8aad"
   integrity sha512-75jVt5u3ToxysZxk3ke7dkriqeOUF1B9PbatWxElwQfuZiBfBkUD/tiS/WhkUqdRsnk2Xia5p8XQdAJzPdZv8w==
   dependencies:
     "@sushiswap/core" "^2.0.0-canary.0"
